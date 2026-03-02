@@ -1,0 +1,96 @@
+Timestamp,IP,Method,Path,Category,Action,Reason
+2026-03-01 03:54:43,127.0.0.1,GET,/,SQLi,BLOCK,Signature match
+2026-03-01 03:55:08,127.0.0.1,GET,/search,SQLi,BLOCK,Signature match
+2026-03-01 03:55:39,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:55:50,127.0.0.1,GET,/search,"SQLi,XSS",BLOCK,Signature match
+2026-03-01 03:56:01,127.0.0.1,GET,/file,"SQLi,LFI,Traversal",BLOCK,Signature match
+2026-03-01 03:56:15,127.0.0.1,GET,/ping,"SQLi,CmdInjection",BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-01 03:56:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:58,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:58,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:58,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:58,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:58,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:58,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:58,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:58,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:58,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:58,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 03:56:58,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-01 05:19:49,127.0.0.1,GET,/favicon.ico,SQLi,BLOCK,Signature match
+2026-03-02 00:05:00,127.0.0.1,GET,/favicon.ico,SQLi,BLOCK,Signature match
+2026-03-02 00:09:09,127.0.0.1,GET,/,SQLi,BLOCK,Signature match
+2026-03-02 00:09:34,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:40,127.0.0.1,GET,/search,"SQLi,XSS",BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,SQLi,BLOCK,Signature match
+2026-03-02 00:10:56,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:56,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:56,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:56,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:10:57,127.0.0.1,GET,/login,RateLimit,BLOCK,Exceeded 25 req/20s (seen=25)
+2026-03-02 00:11:42,127.0.0.1,GET,/favicon.ico,SQLi,BLOCK,Signature match
+2026-03-02 00:13:27,127.0.0.1,GET,/favicon.ico,SQLi,BLOCK,Signature match
+2026-03-02 00:14:11,127.0.0.1,GET,/favicon.ico,SQLi,BLOCK,Signature match
+2026-03-02 00:15:50,127.0.0.1,GET,/favicon.ico,SQLi,BLOCK,Signature match
