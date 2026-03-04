@@ -108,3 +108,8 @@ Behavioral traffic analysis
 Security logging and reporting
 
 Dashboard analytics
+
+## 📄 Detailed Project Report
+
+https://docs.google.com/document/d/1UOEQrtXQbhsvE7QEzG7m3MkgEkmoJwpOaVkRyMTUdaA/edit?usp=sharing
+
