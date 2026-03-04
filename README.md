@@ -111,4 +111,5 @@ Dashboard analytics
 
 ## 📄 Detailed Project Report
 
+https://drive.google.com/file/d/1eC7Fvg-ngv4N0HcdKokHa1JvDIqsWXii/view?usp=sharing
 
