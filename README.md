@@ -109,6 +109,10 @@ Security logging and reporting
 
 Dashboard analytics
 
+## 🎥 Demo Video
+
+https://youtu.be/f_m3AxNgfOo
+
 ## 📄 Detailed Project Report
 
 https://drive.google.com/file/d/1eC7Fvg-ngv4N0HcdKokHa1JvDIqsWXii/view?usp=sharing
